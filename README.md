@@ -18,7 +18,12 @@ Java Web Application using Servlets + JSP + MySQL
 
 
 
-#Configuration
+## Configuration
 * **To Specify Directory** - Refer User.java  
 * **MySQL Connection** - Login.java & Register.java
 * **Maximum Space Per User** - User.java
+
+# Contribution 
+* Saim Bardi - Login & Registration System
+
+Government Polytechnic Mumbai
