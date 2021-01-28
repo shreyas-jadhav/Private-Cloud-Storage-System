@@ -4,7 +4,7 @@ Java Web Application using
 
 ***
 
-# Features:
+## Features:
 * **Registration** - Allocate fixed amount of disk Space for each clients
 * **File Manipulation** - Upload/Delete/Rename/Download
 * **Disk Utility** - Specify directory for storing data 
@@ -15,10 +15,10 @@ Java Web Application using
 * **MySQL Connection** - Login.java & Register.java
 * **Maximum Space Per User** - User.java
 
-# Contributions
+## Contributions
 * **Saim Bardi** - Login & Registration System
 
-# Screenshots
+## Screenshots
 
 
 ![Download, Delete & Rename Files](https://github.com/shreyasjadhav4/Private-Cloud-Storage-System/blob/main/Screenshot%20from%202021-01-28%2009-41-42.png?raw=true)
