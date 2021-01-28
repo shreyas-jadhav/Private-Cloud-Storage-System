@@ -23,7 +23,7 @@ Java Web Application using Servlets + JSP + MySQL
 * **MySQL Connection** - Login.java & Register.java
 * **Maximum Space Per User** - User.java
 
-# Contribution 
-* Saim Bardi - Login & Registration System
+# Contributions
+* **Saim Bardi** - Login & Registration System
 
 Government Polytechnic Mumbai
