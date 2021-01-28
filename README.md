@@ -7,7 +7,7 @@ Java Web Application using
 ## Features:
 * **Registration** - Allocate fixed amount of disk Space for each clients
 * **File Manipulation** - Upload/Delete/Rename/Download
-* **Disk Utility** - Specify directory for storing data 
+* **Disk Utility** - Use specified directory for storing data 
 * **Database Connectivity** - Store user details in MySQL DB
 
 ## Configuration
