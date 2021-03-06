@@ -1,7 +1,8 @@
-# Private-Cloud-Storage-System
+# Cloud-Storage-System
 Java Web Application using 
-**Servlets + JSP + MySQL** 
-
+**Java Servlets + JSP, MySQL** 
+Storage System to Store and Manage data for Multiple Users. 
+Setup your Server for Retrieveing and Storing files remotely using Browser.
 ***
 
 ## Features:
